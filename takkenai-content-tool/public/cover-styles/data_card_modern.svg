@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="data card modern preview">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g)"/>
+  <rect x="74" y="72" width="1132" height="136" rx="20" fill="#ffffff" opacity="0.92"/>
+  <rect x="120" y="120" width="620" height="34" rx="9" fill="#0f172a" opacity="0.86"/>
+  <rect x="74" y="236" width="546" height="388" rx="20" fill="#ffffff" opacity="0.93"/>
+  <rect x="660" y="236" width="546" height="186" rx="20" fill="#ffffff" opacity="0.9"/>
+  <rect x="660" y="438" width="546" height="186" rx="20" fill="#ffffff" opacity="0.82"/>
+  <rect x="116" y="282" width="462" height="18" rx="8" fill="#334155" opacity="0.5"/>
+  <rect x="116" y="322" width="422" height="18" rx="8" fill="#334155" opacity="0.4"/>
+  <rect x="116" y="362" width="442" height="18" rx="8" fill="#334155" opacity="0.35"/>
+  <polyline points="116,514 212,462 286,488 352,418 438,434 548,346" fill="none" stroke="#0ea5e9" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="548" cy="346" r="10" fill="#0ea5e9"/>
+  <rect x="704" y="282" width="218" height="112" rx="14" fill="#38bdf8" opacity="0.8"/>
+  <rect x="942" y="282" width="218" height="112" rx="14" fill="#22c55e" opacity="0.78"/>
+  <rect x="704" y="482" width="456" height="24" rx="8" fill="#334155" opacity="0.45"/>
+  <rect x="704" y="524" width="412" height="24" rx="8" fill="#334155" opacity="0.35"/>
+</svg>

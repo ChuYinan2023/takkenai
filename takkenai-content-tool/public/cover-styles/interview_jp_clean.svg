@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Interview style preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8f7fb" />
+      <stop offset="100%" stop-color="#d5eff7" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.94" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.82" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#bg)" />
+  <rect x="0" y="0" width="1280" height="720" fill="#ffffff" opacity="0.08" />
+
+  <rect x="60" y="84" width="700" height="554" rx="22" fill="url(#panel)" stroke="#b8dce9" />
+
+  <text x="96" y="166" font-size="68" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-weight="800" fill="#1f3e63">INTERVIEW</text>
+  <text x="96" y="212" font-size="42" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-weight="700" fill="#294f7c">日系采访风</text>
+
+  <line x1="96" y1="274" x2="700" y2="274" stroke="#7ca8c0" stroke-width="3" stroke-dasharray="8 8" />
+
+  <text x="96" y="340" font-size="56" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-weight="800" fill="#213a5a">日本人ビジネス人物</text>
+  <text x="96" y="420" font-size="56" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-weight="800" fill="#213a5a">要点を3行で整理</text>
+  <text x="96" y="500" font-size="56" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-weight="800" fill="#213a5a">清潔で高信頼な印象</text>
+
+  <circle cx="1020" cy="320" r="120" fill="#bed8e4" opacity="0.65" />
+  <circle cx="1020" cy="308" r="72" fill="#f4d8c6" />
+  <path d="M958 291 C972 245,1068 245,1082 291 L1082 308 L958 308 Z" fill="#2b3442" />
+  <rect x="948" y="392" width="144" height="220" rx="64" fill="#7e8b98" />
+  <rect x="995" y="426" width="50" height="152" rx="24" fill="#e9edf1" />
+
+  <text x="1044" y="668" text-anchor="middle" font-size="30" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-weight="700" fill="#2a4f70">人物は日本人固定</text>
+</svg>

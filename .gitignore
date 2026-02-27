@@ -1,0 +1,27 @@
+assets/explanations/*.png
+assets/explanations/*.txt
+
+# System
+.DS_Store
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Local env / logs
+.env
+.env.local
+*.log
+server.log
+
+# Next.js build artifacts
+takkenai-content-tool/.next/
+takkenai-content-tool/.next*/
+takkenai-content-tool/.next-*/
+takkenai-content-tool/tsconfig.tsbuildinfo
+
+# Runtime/generated outputs (do not version)
+takkenai-content-tool/data/generated/
+takkenai-content-tool/data/calendar.json
+takkenai-content-tool/data/note-internal-links.json
+takkenai-content-tool/data/skill-sandbox/

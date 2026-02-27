@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="soft lifestyle pastel preview">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fef3c7"/>
+      <stop offset="100%" stop-color="#dbeafe"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#g)"/>
+  <rect x="84" y="82" width="1112" height="140" rx="22" fill="#ffffff" opacity="0.9"/>
+  <rect x="128" y="126" width="666" height="36" rx="10" fill="#7c3aed" opacity="0.45"/>
+  <rect x="84" y="252" width="728" height="378" rx="24" fill="#ffffff" opacity="0.85"/>
+  <rect x="118" y="302" width="520" height="58" rx="14" fill="#fca5a5" opacity="0.5"/>
+  <rect x="118" y="378" width="488" height="58" rx="14" fill="#86efac" opacity="0.55"/>
+  <rect x="118" y="454" width="536" height="58" rx="14" fill="#93c5fd" opacity="0.55"/>
+  <circle cx="980" cy="398" r="132" fill="#f8fafc" opacity="0.88"/>
+  <circle cx="944" cy="366" r="18" fill="#1f2937"/>
+  <circle cx="1016" cy="366" r="18" fill="#1f2937"/>
+  <path d="M926 444 C952 468, 1008 468, 1034 444" stroke="#1f2937" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <rect x="876" y="532" width="210" height="50" rx="14" fill="#f472b6" opacity="0.64"/>
+</svg>

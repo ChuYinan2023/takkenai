@@ -1,0 +1,506 @@
+[
+  {
+    "id": "tool-chukai-tesuryo",
+    "name": "chukai-tesuryo",
+    "slug": "chukai-tesuryo",
+    "category": "finance",
+    "takkenaiUrl": "/tools/chukai-tesuryo/"
+  },
+  {
+    "id": "tool-inshi-zei",
+    "name": "inshi-zei",
+    "slug": "inshi-zei",
+    "category": "finance",
+    "takkenaiUrl": "/tools/inshi-zei/"
+  },
+  {
+    "id": "tool-touroku-menkyozei",
+    "name": "touroku-menkyozei",
+    "slug": "touroku-menkyozei",
+    "category": "finance",
+    "takkenaiUrl": "/tools/touroku-menkyozei/"
+  },
+  {
+    "id": "tool-benkyou-keikaku",
+    "name": "benkyou-keikaku",
+    "slug": "benkyou-keikaku",
+    "category": "exam",
+    "takkenaiUrl": "/tools/benkyou-keikaku/"
+  },
+  {
+    "id": "tool-goukaku-shindan",
+    "name": "goukaku-shindan",
+    "slug": "goukaku-shindan",
+    "category": "exam",
+    "takkenaiUrl": "/tools/goukaku-shindan/"
+  },
+  {
+    "id": "tool-nenshu-simulation",
+    "name": "nenshu-simulation",
+    "slug": "nenshu-simulation",
+    "category": "exam",
+    "takkenaiUrl": "/tools/nenshu-simulation/"
+  },
+  {
+    "id": "tool-kotei-shisanzei",
+    "name": "kotei-shisanzei",
+    "slug": "kotei-shisanzei",
+    "category": "finance",
+    "takkenaiUrl": "/tools/kotei-shisanzei/"
+  },
+  {
+    "id": "tool-kenpei-youseki",
+    "name": "kenpei-youseki",
+    "slug": "kenpei-youseki",
+    "category": "market",
+    "takkenaiUrl": "/tools/kenpei-youseki/"
+  },
+  {
+    "id": "tool-loan",
+    "name": "loan",
+    "slug": "loan",
+    "category": "finance",
+    "takkenaiUrl": "/tools/loan/"
+  },
+  {
+    "id": "tool-shohiyo",
+    "name": "shohiyo",
+    "slug": "shohiyo",
+    "category": "finance",
+    "takkenaiUrl": "/tools/shohiyo/"
+  },
+  {
+    "id": "tool-satei",
+    "name": "satei",
+    "slug": "satei",
+    "category": "market",
+    "takkenaiUrl": "/tools/satei/"
+  },
+  {
+    "id": "tool-jusetsu-checker",
+    "name": "jusetsu-checker",
+    "slug": "jusetsu-checker",
+    "category": "compliance",
+    "takkenaiUrl": "/tools/jusetsu-checker/"
+  },
+  {
+    "id": "tool-hourei-search",
+    "name": "hourei-search",
+    "slug": "hourei-search",
+    "category": "compliance",
+    "takkenaiUrl": "/tools/hourei-search/"
+  },
+  {
+    "id": "tool-chika-search",
+    "name": "chika-search",
+    "slug": "chika-search",
+    "category": "market",
+    "takkenaiUrl": "/tools/chika-search/"
+  },
+  {
+    "id": "tool-sns-generator",
+    "name": "sns-generator",
+    "slug": "sns-generator",
+    "category": "marketing",
+    "takkenaiUrl": "/tools/sns-generator/"
+  },
+  {
+    "id": "tool-video-generator",
+    "name": "video-generator",
+    "slug": "video-generator",
+    "category": "marketing",
+    "takkenaiUrl": "/tools/video-generator/"
+  },
+  {
+    "id": "tool-shikin-keikaku",
+    "name": "shikin-keikaku",
+    "slug": "shikin-keikaku",
+    "category": "sales",
+    "takkenaiUrl": "/tools/shikin-keikaku/"
+  },
+  {
+    "id": "tool-buy-vs-rent",
+    "name": "buy-vs-rent",
+    "slug": "buy-vs-rent",
+    "category": "investment",
+    "takkenaiUrl": "/tools/buy-vs-rent/"
+  },
+  {
+    "id": "tool-toushi-roi",
+    "name": "toushi-roi",
+    "slug": "toushi-roi",
+    "category": "investment",
+    "takkenaiUrl": "/tools/toushi-roi/"
+  },
+  {
+    "id": "tool-chinryo-souba",
+    "name": "chinryo-souba",
+    "slug": "chinryo-souba",
+    "category": "market",
+    "takkenaiUrl": "/tools/chinryo-souba/"
+  },
+  {
+    "id": "tool-chirashi-generator",
+    "name": "chirashi-generator",
+    "slug": "chirashi-generator",
+    "category": "marketing",
+    "takkenaiUrl": "/tools/chirashi-generator/"
+  },
+  {
+    "id": "tool-catchcopy-generator",
+    "name": "catchcopy-generator",
+    "slug": "catchcopy-generator",
+    "category": "marketing",
+    "takkenaiUrl": "/tools/catchcopy-generator/"
+  },
+  {
+    "id": "tool-email-template",
+    "name": "email-template",
+    "slug": "email-template",
+    "category": "customer",
+    "takkenaiUrl": "/tools/email-template/"
+  },
+  {
+    "id": "tool-openhouse-generator",
+    "name": "openhouse-generator",
+    "slug": "openhouse-generator",
+    "category": "marketing",
+    "takkenaiUrl": "/tools/openhouse-generator/"
+  },
+  {
+    "id": "tool-area-guide",
+    "name": "area-guide",
+    "slug": "area-guide",
+    "category": "marketing",
+    "takkenaiUrl": "/tools/area-guide/"
+  },
+  {
+    "id": "tool-market-report",
+    "name": "market-report",
+    "slug": "market-report",
+    "category": "sales",
+    "takkenaiUrl": "/tools/market-report/"
+  },
+  {
+    "id": "tool-testimonial-collector",
+    "name": "testimonial-collector",
+    "slug": "testimonial-collector",
+    "category": "customer",
+    "takkenaiUrl": "/tools/testimonial-collector/"
+  },
+  {
+    "id": "tool-meishi-generator",
+    "name": "meishi-generator",
+    "slug": "meishi-generator",
+    "category": "sales",
+    "takkenaiUrl": "/tools/meishi-generator/"
+  },
+  {
+    "id": "tool-torihiki-timeline",
+    "name": "torihiki-timeline",
+    "slug": "torihiki-timeline",
+    "category": "operations",
+    "takkenaiUrl": "/tools/torihiki-timeline/"
+  },
+  {
+    "id": "tool-shorui-checker",
+    "name": "shorui-checker",
+    "slug": "shorui-checker",
+    "category": "operations",
+    "takkenaiUrl": "/tools/shorui-checker/"
+  },
+  {
+    "id": "tool-hikiwatashi-checklist",
+    "name": "hikiwatashi-checklist",
+    "slug": "hikiwatashi-checklist",
+    "category": "operations",
+    "takkenaiUrl": "/tools/hikiwatashi-checklist/"
+  },
+  {
+    "id": "tool-kotowari-taiou",
+    "name": "kotowari-taiou",
+    "slug": "kotowari-taiou",
+    "category": "customer",
+    "takkenaiUrl": "/tools/kotowari-taiou/"
+  },
+  {
+    "id": "tool-faq-database",
+    "name": "faq-database",
+    "slug": "faq-database",
+    "category": "customer",
+    "takkenaiUrl": "/tools/faq-database/"
+  },
+  {
+    "id": "tool-koshin-annai",
+    "name": "koshin-annai",
+    "slug": "koshin-annai",
+    "category": "management",
+    "takkenaiUrl": "/tools/koshin-annai/"
+  },
+  {
+    "id": "tool-taikyo-seisan",
+    "name": "taikyo-seisan",
+    "slug": "taikyo-seisan",
+    "category": "management",
+    "takkenaiUrl": "/tools/taikyo-seisan/"
+  },
+  {
+    "id": "tool-shikikin-henkan",
+    "name": "shikikin-henkan",
+    "slug": "shikikin-henkan",
+    "category": "management",
+    "takkenaiUrl": "/tools/shikikin-henkan/"
+  },
+  {
+    "id": "tool-jisseki-card",
+    "name": "jisseki-card",
+    "slug": "jisseki-card",
+    "category": "other",
+    "takkenaiUrl": "/tools/jisseki-card/"
+  },
+  {
+    "id": "tool-gbp-post",
+    "name": "gbp-post",
+    "slug": "gbp-post",
+    "category": "other",
+    "takkenaiUrl": "/tools/gbp-post/"
+  },
+  {
+    "id": "tool-bukken-hikaku",
+    "name": "bukken-hikaku",
+    "slug": "bukken-hikaku",
+    "category": "sales",
+    "takkenaiUrl": "/tools/bukken-hikaku/"
+  },
+  {
+    "id": "tool-kanrihi-analyzer",
+    "name": "kanrihi-analyzer",
+    "slug": "kanrihi-analyzer",
+    "category": "market",
+    "takkenaiUrl": "/tools/kanrihi-analyzer/"
+  },
+  {
+    "id": "tool-loan-shinsa",
+    "name": "loan-shinsa",
+    "slug": "loan-shinsa",
+    "category": "finance",
+    "takkenaiUrl": "/tools/loan-shinsa/"
+  },
+  {
+    "id": "tool-dcf-analyzer",
+    "name": "dcf-analyzer",
+    "slug": "dcf-analyzer",
+    "category": "investment",
+    "takkenaiUrl": "/tools/dcf-analyzer/"
+  },
+  {
+    "id": "tool-office-moving-cost",
+    "name": "office-moving-cost",
+    "slug": "office-moving-cost",
+    "category": "commercial",
+    "takkenaiUrl": "/tools/office-moving-cost/"
+  },
+  {
+    "id": "tool-tenant-proposal",
+    "name": "tenant-proposal",
+    "slug": "tenant-proposal",
+    "category": "commercial",
+    "takkenaiUrl": "/tools/tenant-proposal/"
+  },
+  {
+    "id": "tool-commercial-rent-estimate",
+    "name": "commercial-rent-estimate",
+    "slug": "commercial-rent-estimate",
+    "category": "commercial",
+    "takkenaiUrl": "/tools/commercial-rent-estimate/"
+  },
+  {
+    "id": "tool-leverage-calculator",
+    "name": "leverage-calculator",
+    "slug": "leverage-calculator",
+    "category": "investment",
+    "takkenaiUrl": "/tools/leverage-calculator/"
+  },
+  {
+    "id": "tool-lease-comparison",
+    "name": "lease-comparison",
+    "slug": "lease-comparison",
+    "category": "commercial",
+    "takkenaiUrl": "/tools/lease-comparison/"
+  },
+  {
+    "id": "tool-building-comparison",
+    "name": "building-comparison",
+    "slug": "building-comparison",
+    "category": "commercial",
+    "takkenaiUrl": "/tools/building-comparison/"
+  },
+  {
+    "id": "tool-cap-rate-map",
+    "name": "cap-rate-map",
+    "slug": "cap-rate-map",
+    "category": "investment",
+    "takkenaiUrl": "/tools/cap-rate-map/"
+  },
+  {
+    "id": "tool-tenant-screening",
+    "name": "tenant-screening",
+    "slug": "tenant-screening",
+    "category": "commercial",
+    "takkenaiUrl": "/tools/tenant-screening/"
+  },
+  {
+    "id": "tool-rent-escalation",
+    "name": "rent-escalation",
+    "slug": "rent-escalation",
+    "category": "management",
+    "takkenaiUrl": "/tools/rent-escalation/"
+  },
+  {
+    "id": "tool-investment-risk",
+    "name": "investment-risk",
+    "slug": "investment-risk",
+    "category": "investment",
+    "takkenaiUrl": "/tools/investment-risk/"
+  },
+  {
+    "id": "tool-office-layout",
+    "name": "office-layout",
+    "slug": "office-layout",
+    "category": "commercial",
+    "takkenaiUrl": "/tools/office-layout/"
+  },
+  {
+    "id": "tool-rent-free-calculator",
+    "name": "rent-free-calculator",
+    "slug": "rent-free-calculator",
+    "category": "commercial",
+    "takkenaiUrl": "/tools/rent-free-calculator/"
+  },
+  {
+    "id": "tool-exit-strategy",
+    "name": "exit-strategy",
+    "slug": "exit-strategy",
+    "category": "investment",
+    "takkenaiUrl": "/tools/exit-strategy/"
+  },
+  {
+    "id": "tool-sublease-calculator",
+    "name": "sublease-calculator",
+    "slug": "sublease-calculator",
+    "category": "investment",
+    "takkenaiUrl": "/tools/sublease-calculator/"
+  },
+  {
+    "id": "tool-property-due-diligence",
+    "name": "property-due-diligence",
+    "slug": "property-due-diligence",
+    "category": "other",
+    "takkenaiUrl": "/tools/property-due-diligence/"
+  },
+  {
+    "id": "tool-depreciation-calculator",
+    "name": "depreciation-calculator",
+    "slug": "depreciation-calculator",
+    "category": "finance",
+    "takkenaiUrl": "/tools/depreciation-calculator/"
+  },
+  {
+    "id": "tool-inheritance-tax",
+    "name": "inheritance-tax",
+    "slug": "inheritance-tax",
+    "category": "finance",
+    "takkenaiUrl": "/tools/inheritance-tax/"
+  },
+  {
+    "id": "tool-gift-tax-simulator",
+    "name": "gift-tax-simulator",
+    "slug": "gift-tax-simulator",
+    "category": "finance",
+    "takkenaiUrl": "/tools/gift-tax-simulator/"
+  },
+  {
+    "id": "tool-mortgage-refinance",
+    "name": "mortgage-refinance",
+    "slug": "mortgage-refinance",
+    "category": "exam",
+    "takkenaiUrl": "/tools/mortgage-refinance/"
+  },
+  {
+    "id": "tool-reform-cost",
+    "name": "reform-cost",
+    "slug": "reform-cost",
+    "category": "market",
+    "takkenaiUrl": "/tools/reform-cost/"
+  },
+  {
+    "id": "tool-rent-guarantee",
+    "name": "rent-guarantee",
+    "slug": "rent-guarantee",
+    "category": "management",
+    "takkenaiUrl": "/tools/rent-guarantee/"
+  },
+  {
+    "id": "tool-vacancy-solution",
+    "name": "vacancy-solution",
+    "slug": "vacancy-solution",
+    "category": "management",
+    "takkenaiUrl": "/tools/vacancy-solution/"
+  },
+  {
+    "id": "tool-property-center",
+    "name": "property-center",
+    "slug": "property-center",
+    "category": "sales",
+    "takkenaiUrl": "/tools/property-center/"
+  },
+  {
+    "id": "tool-content-marketing",
+    "name": "content-marketing",
+    "slug": "content-marketing",
+    "category": "marketing",
+    "takkenaiUrl": "/tools/content-marketing/"
+  },
+  {
+    "id": "tool-property-lp-generator",
+    "name": "property-lp-generator",
+    "slug": "property-lp-generator",
+    "category": "marketing",
+    "takkenaiUrl": "/tools/property-lp-generator/"
+  },
+  {
+    "id": "tool-eki-souba",
+    "name": "eki-souba",
+    "slug": "eki-souba",
+    "category": "market",
+    "takkenaiUrl": "/tools/eki-souba/"
+  },
+  {
+    "id": "tool-finance-center",
+    "name": "finance-center",
+    "slug": "finance-center",
+    "category": "other",
+    "takkenaiUrl": "/tools/finance-center/"
+  },
+  {
+    "id": "tool-commercial-center",
+    "name": "commercial-center",
+    "slug": "commercial-center",
+    "category": "other",
+    "takkenaiUrl": "/tools/commercial-center/"
+  },
+  {
+    "id": "tool-business-support-center",
+    "name": "business-support-center",
+    "slug": "business-support-center",
+    "category": "other",
+    "takkenaiUrl": "/tools/business-support-center/"
+  },
+  {
+    "id": "tool-research-center",
+    "name": "research-center",
+    "slug": "research-center",
+    "category": "other",
+    "takkenaiUrl": "/tools/research-center/"
+  }
+]

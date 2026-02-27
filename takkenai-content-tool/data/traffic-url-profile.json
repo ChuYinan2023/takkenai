@@ -1,0 +1,244 @@
+{
+  "version": "ga4-2026-02-25-v1",
+  "generatedAt": "2026-02-25T00:00:00.000Z",
+  "strategy": {
+    "highShare": 0.7,
+    "exploreShare": 0.3
+  },
+  "items": [
+    {
+      "path": "/tools/video-generator",
+      "labelJa": "不動産動画ジェネレーター",
+      "group": "tool",
+      "tier": "high",
+      "weight": 18,
+      "sourceScore": 533,
+      "bounceRate": 20
+    },
+    {
+      "path": "/tools/property-center",
+      "labelJa": "物件情報センター",
+      "group": "tool",
+      "tier": "high",
+      "weight": 12,
+      "sourceScore": 259,
+      "bounceRate": 10
+    },
+    {
+      "path": "/tools/kotei-shisanzei",
+      "labelJa": "固定資産税計算機",
+      "group": "tool",
+      "tier": "high",
+      "weight": 12,
+      "sourceScore": 254,
+      "bounceRate": 38.3
+    },
+    {
+      "path": "/tools/taikyo-seisan",
+      "labelJa": "退去精算シミュレーター",
+      "group": "tool",
+      "tier": "high",
+      "weight": 8,
+      "sourceScore": 108,
+      "bounceRate": 44.4
+    },
+    {
+      "path": "/tools/content-marketing",
+      "labelJa": "情報発信コンテンツ生成",
+      "group": "tool",
+      "tier": "high",
+      "weight": 7,
+      "sourceScore": 69
+    },
+    {
+      "path": "/tools/shikin-keikaku",
+      "labelJa": "資金計画書作成ツール",
+      "group": "tool",
+      "tier": "high",
+      "weight": 7,
+      "sourceScore": 64,
+      "bounceRate": 50
+    },
+    {
+      "path": "/tools/loan",
+      "labelJa": "住宅ローンシミュレーター",
+      "group": "tool",
+      "tier": "high",
+      "weight": 6,
+      "sourceScore": 30,
+      "bounceRate": 30
+    },
+    {
+      "path": "/tools/chirashi-generator",
+      "labelJa": "物件チラシ生成",
+      "group": "tool",
+      "tier": "high",
+      "weight": 6,
+      "sourceScore": 31,
+      "bounceRate": 33.3
+    },
+    {
+      "path": "/tools/finance-center",
+      "labelJa": "資金・税金計算センター",
+      "group": "tool",
+      "tier": "explore",
+      "weight": 5,
+      "sourceScore": 49
+    },
+    {
+      "path": "/tools/research-center",
+      "labelJa": "不動産調査センター",
+      "group": "tool",
+      "tier": "explore",
+      "weight": 5,
+      "sourceScore": 49
+    },
+    {
+      "path": "/tools/kenpei-youseki",
+      "labelJa": "建蔽率・容積率計算機",
+      "group": "tool",
+      "tier": "explore",
+      "weight": 4,
+      "sourceScore": 38,
+      "bounceRate": 57.1
+    },
+    {
+      "path": "/tools/chinryo-souba",
+      "labelJa": "賃料相場検索",
+      "group": "tool",
+      "tier": "explore",
+      "weight": 4,
+      "sourceScore": 22
+    },
+    {
+      "path": "/tools/chukai-tesuryo",
+      "labelJa": "仲介手数料計算機",
+      "group": "tool",
+      "tier": "explore",
+      "weight": 3,
+      "sourceScore": 21,
+      "bounceRate": 28.6
+    },
+    {
+      "path": "/tools/chika-search",
+      "labelJa": "地価・取引価格検索",
+      "group": "tool",
+      "tier": "explore",
+      "weight": 3,
+      "sourceScore": 28
+    },
+    {
+      "path": "/tools/property-lp-generator",
+      "labelJa": "物件LP生成",
+      "group": "tool",
+      "tier": "explore",
+      "weight": 3,
+      "sourceScore": 33
+    },
+    {
+      "path": "/tools/sns-generator",
+      "labelJa": "不動産SNS投稿ジェネレーター",
+      "group": "tool",
+      "tier": "cooldown",
+      "weight": 4,
+      "sourceScore": 197,
+      "bounceRate": 58.3
+    },
+    {
+      "path": "/tools/depreciation-calculator",
+      "labelJa": "減価償却計算機",
+      "group": "tool",
+      "tier": "cooldown",
+      "weight": 4,
+      "sourceScore": 137,
+      "bounceRate": 56.3
+    },
+    {
+      "path": "/tools/touroku-menkyozei",
+      "labelJa": "登録免許税計算機",
+      "group": "tool",
+      "tier": "cooldown",
+      "weight": 2,
+      "sourceScore": 16,
+      "bounceRate": 62.5
+    },
+    {
+      "path": "/tools/shohiyo",
+      "labelJa": "諸費用計算機",
+      "group": "tool",
+      "tier": "cooldown",
+      "weight": 2,
+      "sourceScore": 16,
+      "bounceRate": 75
+    },
+    {
+      "path": "/takken/exam/2026",
+      "labelJa": "宅建試験日程・合格点・申込方法",
+      "group": "takken",
+      "tier": "high",
+      "weight": 20,
+      "sourceScore": 1411,
+      "bounceRate": 25.7
+    },
+    {
+      "path": "/takken/osusume",
+      "labelJa": "宅建アプリおすすめランキング",
+      "group": "takken",
+      "tier": "high",
+      "weight": 8,
+      "sourceScore": 132,
+      "bounceRate": 22.6
+    },
+    {
+      "path": "/takken/gomon-menjo",
+      "labelJa": "宅建試験の5問免除",
+      "group": "takken",
+      "tier": "high",
+      "weight": 6,
+      "sourceScore": 95,
+      "bounceRate": 30.4
+    },
+    {
+      "path": "/takken/hikaku",
+      "labelJa": "宅建通信講座の比較",
+      "group": "takken",
+      "tier": "high",
+      "weight": 5,
+      "sourceScore": 61,
+      "bounceRate": 28.6
+    },
+    {
+      "path": "/takken/knowledge/minpo",
+      "labelJa": "宅建 民法 知識点一覧",
+      "group": "takken",
+      "tier": "explore",
+      "weight": 4,
+      "sourceScore": 33
+    },
+    {
+      "path": "/takken/past-questions",
+      "labelJa": "宅建 過去問一覧",
+      "group": "takken",
+      "tier": "explore",
+      "weight": 4,
+      "sourceScore": 105,
+      "bounceRate": 50
+    },
+    {
+      "path": "/takken/shikenbi",
+      "labelJa": "宅建 試験日情報",
+      "group": "takken",
+      "tier": "explore",
+      "weight": 3,
+      "sourceScore": 33
+    },
+    {
+      "path": "/takken/ai-predictions",
+      "labelJa": "宅建 AIヤマ当て",
+      "group": "takken",
+      "tier": "explore",
+      "weight": 3,
+      "sourceScore": 15
+    }
+  ]
+}

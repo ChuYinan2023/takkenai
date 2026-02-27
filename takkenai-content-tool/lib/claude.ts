@@ -3966,6 +3966,38 @@ export async function ensureFinalJapaneseChineseConsistency(
     return repaired;
   }
 
+  // Last-resort: aggressively strip any line in bodyChinese that still contains kana
+  const aggressivelyCleaned = {
+    ...repaired,
+    bodyChinese: (repaired.bodyChinese || "")
+      .split("\n")
+      .map((line) => {
+        // Preserve heading structure but strip kana from content
+        const headingMatch = line.match(/^(#{2,6})\s+(.+)$/);
+        if (headingMatch) {
+          const cleaned = headingMatch[2].replace(/[\u3040-\u309F\u30A0-\u30FF]+/g, "").replace(/\s+/g, " ").trim();
+          return cleaned ? `${headingMatch[1]} ${cleaned}` : "";
+        }
+        // For narrative lines with kana, strip the kana characters inline
+        if (/[\u3040-\u309F\u30A0-\u30FF]/.test(line)) {
+          const cleaned = line.replace(/[\u3040-\u309F\u30A0-\u30FF]+/g, "").replace(/\s+/g, " ").trim();
+          return cleaned;
+        }
+        return line;
+      })
+      .filter((line) => line.trim() !== "")
+      .join("\n")
+      .replace(/\n{3,}/g, "\n\n")
+      .trim(),
+  };
+  issues = validateFinalJapaneseChineseConsistency(aggressivelyCleaned);
+  if (issues.length === 0) {
+    console.warn(
+      `[${platform}] 日中一致性を aggressive kana strip で修復しました`
+    );
+    return aggressivelyCleaned;
+  }
+
   throw new Error(`[${platform}] 日中一致性チェック失敗: ${issues.join(" / ")}`);
 }
 
